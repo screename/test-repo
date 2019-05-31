@@ -1,0 +1,6 @@
+const Moo = 'Moo'
+const Yoo = 'Yoo'
+const Joo = 'Joo'
+const Stage = 'Stage'
+const Monkey = 'Monkey'
+const Stage2 = 'Stage2'
